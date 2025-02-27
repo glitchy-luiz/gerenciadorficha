@@ -1,0 +1,13 @@
+C:\Users\labsfiap\source\repos\coisaboa\bin\Debug\coisaboa.exe.config
+C:\Users\labsfiap\source\repos\coisaboa\bin\Debug\coisaboa.exe
+C:\Users\labsfiap\source\repos\coisaboa\bin\Debug\coisaboa.pdb
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.csproj.AssemblyReference.cache
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.Form1.resources
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.Properties.Resources.resources
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.csproj.GenerateResource.cache
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.exe
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.pdb
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.Criador.resources
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.Personagens.resources
+C:\Users\labsfiap\source\repos\coisaboa\obj\Debug\coisaboa.Status.resources
